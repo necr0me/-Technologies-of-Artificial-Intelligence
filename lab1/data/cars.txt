@@ -1,0 +1,6 @@
+audi, bmw, mercedes
+rings|1 0 0
+bavarian|0 1 0
+oil problems|0 1 0
+arrows|0 0 1
+success in f1|0 0 1

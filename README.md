@@ -1,0 +1,1 @@
+solutions for 'Technologies of Artificial Intelligence' laboratory works
